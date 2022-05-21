@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+
+}
+body{
+    background: url("509px-Bajura_Model_Academy.jpg"),rgb(3, 101, 146);
+    background-color: rgba(0, 0, 1, 2);
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center;
+    height: 109vh;
+    
+}
+#h1{
+    color:blue;
+    text-align: center;
+    padding: 20px;
+    margin: 20px 50px 30px 20px;
+    font-family: Algerian;
+    font-size: 50px;
+  
+}
+.list{
+   
+    float: center;
+    text-align:center;
+    padding: 10px;
+    margin-top: 30px;
+
+}
+#all{
+    margin: auto;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: aquamarine;
+    font-language-override: normal;
+
+}
+#all:hover{
+    background-color: rgb(27, 24, 24);
+    border-radius: 10px;
+    height:40px ;
+}
+
+
+.dan{
+    float: right;
+    margin-top: 0px;
+    font-size: 30px;
+    color: greenyellow;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+header{
+    background-color: rgb(20, 1, 1);
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+}
